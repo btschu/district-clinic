@@ -34,6 +34,10 @@ a:hover {
   text-decoration: none;
 }
 
+h3 span {
+  color: var(--primary-color)
+}
+
 
 /*--------------------------------------------------------------
 # Preloader
