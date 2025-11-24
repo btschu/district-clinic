@@ -808,12 +808,12 @@ section {
 }
 
 .clinician {
-  max-height: 500px;
+  max-height: 300px;
   max-width: 90%;
   /* justify-content: center; */
   /* padding: 20px; */
   /* margin: auto; */
-  /* border-radius: 50%; */
+  border-radius: 50%;
 }
 
 .justify {
