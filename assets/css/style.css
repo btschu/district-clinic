@@ -809,6 +809,7 @@ section {
 
 .clinician {
   max-height: 500px;
+  max-width: 90%;
   /* justify-content: center; */
   /* padding: 20px; */
   /* margin: auto; */
